@@ -1,0 +1,5 @@
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csprojAssemblyReference.cache
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA_TP_Projeto_II___Forca.Form1.resources
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA_TP_Projeto_II___Forca.Properties.Resources.resources
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csproj.GenerateResource.cache
+E:\Cotuca hihihiih\Técnicas de Programação\AA TP Projeto II - Forca\AA TP Projeto II - Forca\obj\Debug\AA TP Projeto II - Forca.csproj.CoreCompileInputs.cache
